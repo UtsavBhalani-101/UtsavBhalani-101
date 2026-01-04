@@ -1,64 +1,10 @@
-# Utsav
+<h1 align="center">Hi 👋, I'm Utsav Bhalani</h1>
+<h3 align="center">ML experiments and system-level learning</h3>
 
-Focused on **machine learning systems**, not just training models.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/https://medium.com/@utsavbhalani10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@utsavbhalani10" height="30" width="40" /></a>
+</p>
 
-I care about data quality, diagnostics, failure modes, and building things that
-don’t silently break.
-
----
-
-## What I’m working on
-
-- ML diagnostic engine (data risk, leakage, multicollinearity, imbalance)
-- Unsupervised learning fundamentals
-- Time series forecasting (statistical → ML)
-- Writing structured, production-style Python
-
----
-
-## How I work
-
-- System-first, top-down
-- Build before deep theory
-- Learn fundamentals only when they unblock progress
-- Refactor aggressively after things work
-
----
-
-## Tech Stack
-
-### Languages
-- Python
-- C++
-
-### Data & ML
-- NumPy
-- pandas
-- scikit-learn
-- Basic statistics & probability
-
-### Tools
-- Git & GitHub
-- Jupyter / VS Code
-- Linux basics
-
----
-
-## What you’ll find here
-
-- Diagnostic-focused ML projects
-- Clean, readable implementations
-- Experiments done to understand behavior, not just accuracy
-- Notes embedded in code where decisions matter
-
----
-
-## Direction
-
-Long term, I want to build ML systems that are:
-- interpretable
-- diagnosable
-- robust to bad data
-- grounded in first principles
-
-I’m not optimizing for hype or shortcuts.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
