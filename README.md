@@ -1,16 +1,64 @@
-## Hi there 👋
+# Utsav
 
-<!--
-**UtsavBhalani-101/UtsavBhalani-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on **machine learning systems**, not just training models.
 
-Here are some ideas to get you started:
+I care about data quality, diagnostics, failure modes, and building things that
+don’t silently break.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m working on
+
+- ML diagnostic engine (data risk, leakage, multicollinearity, imbalance)
+- Unsupervised learning fundamentals
+- Time series forecasting (statistical → ML)
+- Writing structured, production-style Python
+
+---
+
+## How I work
+
+- System-first, top-down
+- Build before deep theory
+- Learn fundamentals only when they unblock progress
+- Refactor aggressively after things work
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- C++
+
+### Data & ML
+- NumPy
+- pandas
+- scikit-learn
+- Basic statistics & probability
+
+### Tools
+- Git & GitHub
+- Jupyter / VS Code
+- Linux basics
+
+---
+
+## What you’ll find here
+
+- Diagnostic-focused ML projects
+- Clean, readable implementations
+- Experiments done to understand behavior, not just accuracy
+- Notes embedded in code where decisions matter
+
+---
+
+## Direction
+
+Long term, I want to build ML systems that are:
+- interpretable
+- diagnosable
+- robust to bad data
+- grounded in first principles
+
+I’m not optimizing for hype or shortcuts.
